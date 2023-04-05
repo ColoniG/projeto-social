@@ -47,7 +47,7 @@ section#redes-sociais{
 }
                             
 section#redes-sociais > a > img{       /* ou  -  section#redes-sociais img*/
-    width: 5%;
+    width: 9%;
     margin: 1%;
     border-radius: 50px;
     box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.60);
